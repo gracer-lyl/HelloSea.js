@@ -31,6 +31,7 @@ def hello_pyhton():
    
 def hello_javascript():
     print "Hello,JavaScript"
+	
 ```
 
 真的，就是这么简单，我们可以这样使用：
